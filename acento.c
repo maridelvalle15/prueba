@@ -8,4 +8,4 @@ void main(){
 	o = L'ó';
 	wprintf(L"%ls",o);
 }
-// Hola
+// Hola n
