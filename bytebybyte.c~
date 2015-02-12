@@ -12,4 +12,4 @@ void main(int argc, char const *argv[]){
     for(i=0; i<4; i++){
        printf("%c\n", k[i]);
     }                       
-}//hola
+}
